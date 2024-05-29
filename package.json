@@ -1,0 +1,15 @@
+{
+  "name": "desafio_mirepertorio",
+  "version": "1.0.0",
+  "description": "desafío mòdulo 7, mi repertorio.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon --env-file=.env index.js"
+  },
+  "author": "David Pérez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
